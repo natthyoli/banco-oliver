@@ -21,7 +21,7 @@ Projeto simples em Python que simula operações básicas de um banco, como adic
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/banco-oliver.git
+git clone https://github.com/natthyoli/banco-oliver.git
 Entre na pasta do projeto:
 
 bash
